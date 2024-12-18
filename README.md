@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipesh Kumar Gautam</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Python to build artifical intelligence application and enchance my skill in machine learning and data science**
 
